@@ -2,5 +2,5 @@
 Fertilizers Recommendation System For Disease Prediction
 
 
-![TEAM BRAINIAC (2)](https://user-images.githubusercontent.com/100259504/192131480-e3781bd1-7c64-47e5-970c-61d8a8aa34b4.png)
+![Neon Green and Black Diagonal Shape and Image Web Designer Business Card (1)](https://user-images.githubusercontent.com/100259504/192131629-af5cd425-596c-48b5-9044-88661535b69b.png)
 

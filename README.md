@@ -2,5 +2,6 @@
 Fertilizers Recommendation System For Disease Prediction
 
 
-![Neon Green and Black Diagonal Shape and Image Web Designer Business Card (1)](https://user-images.githubusercontent.com/100259504/192131629-af5cd425-596c-48b5-9044-88661535b69b.png)
+![Neon Green and Black Diagonal Shape and Image Web Designer Business Card (2)](https://user-images.githubusercontent.com/100259504/192433861-ac6ae22f-78f8-4b92-9ac3-7e079a0cea4f.png)
+
 
